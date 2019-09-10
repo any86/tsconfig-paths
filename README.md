@@ -1,4 +1,4 @@
-# tsconfig-paths
+# tsconfig-paths100
 
 [![npm version][version-image]][version-url]
 [![travis build][travis-image]][travis-url]
